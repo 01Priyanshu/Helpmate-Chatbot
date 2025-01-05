@@ -1,0 +1,17 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey"],
+        "responses": ["Hi there!", "Hello!", "Hey! How can I help you?"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later"],
+        "responses": ["Goodbye!", "Take care!", "See you later!"]
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "Appreciate it"],
+        "responses": ["You're welcome!", "No problem!", "Happy to help!"]
+    }
+]
