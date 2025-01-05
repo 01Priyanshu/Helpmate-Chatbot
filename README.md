@@ -1,6 +1,6 @@
 
 
-# **Helpmate: Your Intelligent Chatbot Assistant**
+# **Helpmate: Wellness Companion**
 
 Helpmate is a versatile, AI-powered chatbot designed to assist with various tasks, including answering questions, providing information, and engaging in meaningful conversations. Built using modern AI and NLP technologies, Helpmate is scalable and easy to integrate into different platforms.
 
@@ -57,8 +57,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 For questions or support, feel free to reach out:
-- **Email**: Priyanshu Patra
-- **GitHub**: [01Priyanshu]([https://github.com/your-username](https://github.com/01Priyanshu))
+- **Email**: priyanshupatra22072002@gmail.com
+- **GitHub**: ((https://github.com/01Priyanshu))
 
 ---
 
