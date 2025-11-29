@@ -1,6 +1,6 @@
     
 
-# **Helpmate: Wellness Companion**
+# **Helpmate: Wellness Companion**     
 
 Helpmate is a versatile, AI-powered chatbot designed to assist with various tasks, including answering questions, providing information, and engaging in meaningful conversations. Built using modern AI and NLP technologies, Helpmate is scalable and easy to integrate into different platforms.
 
